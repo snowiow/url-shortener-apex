@@ -1,0 +1,9 @@
+**/.terraform/*
+
+# .tfstate files
+*.tfstate.backup
+
+# .tfvars files
+*.tfvars
+*.tfstate
+tags

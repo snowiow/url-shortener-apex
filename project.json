@@ -1,0 +1,8 @@
+{
+  "name": "url-shortener",
+  "description": "A serverless URL shortener",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::919687720168:role/url-shortener_lambda_function",
+  "environment": {}
+}
